@@ -1,26 +1,45 @@
 Package: fi.flodin.JF.SB.1
-Version: 0.0.2
-Section: Widgets
-Maintainer: Jesperflodin1 <jesper@flodin.fi>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/fi.flodin.jf.sb.1_0.0.2_iphoneos-arm.deb
-Size: 263684
-MD5sum: 561bda7d3155fe6fe335cf99a6f5e155
-Description: Widget for XenHTML, based on XenJa3 by junesiphone
-Name: JF.SB.1
-Author: Jesperflodin1 <jesper@flodin.fi>
-
-Package: fi.flodin.JF.SB.1
 Version: 0.0.1
-Section: Widgets
+Architecture: iphoneos-arm
 Maintainer: Jesperflodin1 <jesper@flodin.fi>
 Depends: mobilesubstrate
-Architecture: iphoneos-arm
 Filename: ./debs/fi.flodin.jf.sb.1_0.0.1_iphoneos-arm.deb
 Size: 263326
 MD5sum: 818f347f5d4d7c2b48bda0c1b63fe090
+SHA1: bfeb268210c3669ce8933050b4e61a41874bdab8
+SHA256: d2d746e6eeb91fd8610bc7228ff4d6d37bcb5157ca0c4b80eccef67453984ffd
+Section: Widgets
 Description: Widget for XenHTML, based on XenJa3 by junesiphone
-Name: JF.SB.1
 Author: Jesperflodin1 <jesper@flodin.fi>
+Name: JF.SB.1
+
+Package: fi.flodin.JF.SB.1
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Jesperflodin1 <jesper@flodin.fi>
+Depends: mobilesubstrate
+Filename: ./debs/fi.flodin.jf.sb.1_0.0.2_iphoneos-arm.deb
+Size: 263684
+MD5sum: 561bda7d3155fe6fe335cf99a6f5e155
+SHA1: ae39b67e72a86f03bc58cba858a06392cf5b8038
+SHA256: 6a2fed89a4831ed180cf19ff382504853b375b49d0edebe4a8e44edff60a558b
+Section: Widgets
+Description: Widget for XenHTML, based on XenJa3 by junesiphone
+Author: Jesperflodin1 <jesper@flodin.fi>
+Name: JF.SB.1
+
+Package: fi.flodin.JF.SB.1
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Jesperflodin1 <jesper@flodin.fi>
+Depends: mobilesubstrate
+Filename: ./debs/fi.flodin.jf.sb.1_0.0.3_iphoneos-arm.deb
+Size: 263684
+MD5sum: dcbf2c3457c506fa8652fe11c86877ba
+SHA1: 1a7e0bba5b5b77ee25b9a785aec3d3d100413e1e
+SHA256: 32d9afd095c58c5f515b9c9a75ee546f3babff395b386f38498a060930a64f0d
+Section: Widgets
+Description: Widget for XenHTML, based on XenJa3 by junesiphone
+Author: Jesperflodin1 <jesper@flodin.fi>
+Name: JF.SB.1
 
