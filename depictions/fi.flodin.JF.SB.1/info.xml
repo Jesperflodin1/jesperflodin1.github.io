@@ -1,7 +1,7 @@
 <package>
 	<id>fi.flodin.JF.SB.1</id>
 	<name>JF SB 1</name>
-	<version>0.0.7</version>
+	<version>0.0.8</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.4</maxiOS>
