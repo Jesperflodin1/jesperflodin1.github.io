@@ -1,0 +1,28 @@
+<package>
+	<id>fi.flodin.JF.SB.1</id>
+	<name>JF SB 1</name>
+	<version>0.0.7</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>xenhtml</package>
+		<package>xeninfo</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A widget heavily based on XenJa3 by Junesiphone but with added weather and settings file that's editable with xenhtml. Requires Xeninfo.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release.</change>
+		<change>Dependencies added.</change>
+		<change>Depiction page added.</change>
+	</changelog>
+	<links></links>
+</package>

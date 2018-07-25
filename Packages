@@ -88,3 +88,19 @@ Description: Widget for XenHTML, based on XenJa3 by junesiphone
 Author: Jesperflodin1 <jesper@flodin.fi>
 Name: JF.SB.1
 
+Package: fi.flodin.JF.SB.1
+Version: 0.0.7
+Architecture: iphoneos-arm
+Maintainer: Jesperflodin1 <jesper@flodin.fi>
+Depends: mobilesubstrate, xeninfo, xenhtml
+Filename: ./debs/fi.flodin.jf.sb.1_0.0.7_iphoneos-arm.deb
+Size: 263760
+MD5sum: 42ee0b370a69aeb0bbe4f00b1652f546
+SHA1: 22e95b880b508463f98f50d57a873d71b94beaca
+SHA256: 3889cc46d8976223e1c30ce0822663074fee7c9693dcaa4d283f1913a9e83bc9
+Section: Widgets
+Description: Widget for XenHTML, based on XenJa3 by junesiphone
+Author: Jesperflodin1 <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.JF.SB.1
+Name: JF.SB.1
+
