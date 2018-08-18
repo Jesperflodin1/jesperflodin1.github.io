@@ -1,0 +1,54 @@
+<package>
+	<id>fi.flodin.tonehelper</id>
+	<name>Full Package</name>
+	<version>2.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+            <otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+        <package>Cephei</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Automatically imports ringtones from popular ringtone apps like Audiko and Zedge Ringtones.</description>
+		<description></description>
+		<description><![CDATA[
+		Supports both runtime injection of ringtones (which does not modify any .plist file in the system) <br>
+        and writing of metadata to Ringtones.plist in /var/mobile/Media/Itunes_Control/Itunes. <br>
+        The benefit of modifying the ringtones plist is that the ringtones <br>
+        behaves as if they were imported through iTunes <br>
+        (works when not jailbroken, however iTunes itself wont show them) <br>
+        Imported ringtones can be deleted within the Tonehelper preferences pane.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>ToneHelper preferences pane</description>
+			<image>IMG_1231.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>ToneHelper preferences pane showing imported ringtones. Swipe left to delete.</description>
+			<image>IMG_1232.jpg</image>
+		</screenshot>
+        <screenshot>
+            <description>Ringtone picker view in Preferences with HUD overlay from Tonehelper.</description>
+            <image>IMG_1233.jpg</image>
+        </screenshot>
+	</screenshots>
+	<changelog>
+		<change>First release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
