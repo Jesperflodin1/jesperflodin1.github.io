@@ -1,4 +1,14 @@
 <changelog>
+    <changes>
+        <version>0.2.7-1</version>
+        <change>Added contact buttons to preference pane</change>
+        <change>Bugfixes</change>
+    </changes>
+    <changes>
+        <version>0.2.6-1</version>
+        <change>Added image to ringtone list</change>
+        <change>Bugfixes</change>
+    </changes>
 	<changes>
 		<version>0.2.5-1</version>
 		<change>Initial Beta Release</change>
