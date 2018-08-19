@@ -27,7 +27,7 @@
 	<screenshots>
 		<screenshot>
 			<description>ToneHelper preferences pane</description>
-			<image>IMG1.jpg</image>
+			<image>IMG1.png</image>
 		</screenshot>		
 		<screenshot>
 			<description>ToneHelper preferences pane showing imported ringtones. Swipe left to delete.</description>
@@ -35,7 +35,7 @@
 		</screenshot>
         <screenshot>
             <description>Ringtone picker view in Preferences with HUD overlay from Tonehelper.</description>
-            <image>IMG3.jpg</image>
+            <image>IMG3.png</image>
         </screenshot>
 	</screenshots>
 	<changelog>
