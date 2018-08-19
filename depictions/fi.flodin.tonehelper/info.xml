@@ -1,6 +1,6 @@
 <package>
 	<id>fi.flodin.tonehelper</id>
-	<name>Full Package</name>
+	<name>ToneHelper</name>
 	<version>0.2.7-1</version>
 	<compatibility>
 		<firmware>
