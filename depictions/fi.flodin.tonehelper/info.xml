@@ -1,7 +1,7 @@
 <package>
 	<id>fi.flodin.tonehelper</id>
 	<name>ToneHelper</name>
-	<version>0.2.7-1</version>
+	<version>0.2.8</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -42,6 +42,8 @@
 		<change>Added images to ringtones list showing source app for each ringtone</change>
 		<change>Added contact buttons to preference pane</change>
 		<change>Bugfixes</change>
+        <change>Minor code cleanup</change>
+        <change>Removed debug output</change>
 	</changelog>
 	<links>
 		<link>

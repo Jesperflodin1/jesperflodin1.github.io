@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>0.2.8</version>
+        <change>Minor code cleanup</change>
+        <change>Removed debug output</change>
+    </changes>
+    <changes>
         <version>0.2.7-1</version>
         <change>Added contact buttons to preference pane</change>
         <change>Bugfixes</change>
