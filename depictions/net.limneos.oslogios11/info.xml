@@ -1,0 +1,24 @@
+<package>
+	<id>net.limneos.oslogios11</id>
+	<name>oslog (iOS 11)</name>
+	<version>0.0.1-8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+            <otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>oslog by Elias Limneos. Current version does not work on iOS 11 so i signed it with the correct entitlements. This works on iOS 11.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Signed with entitlements for iOS 11</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
