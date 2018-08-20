@@ -110,10 +110,10 @@ Architecture: iphoneos-arm
 Maintainer: Jesperflodin1 <jesper@flodin.fi>
 Depends: mobilesubstrate, com.junesiphone.xeninfo, com.matchstic.xenhtml
 Filename: ./debs/fi.flodin.jf.sb.1_0.0.8_iphoneos-arm.deb
-Size: 263982
-MD5sum: 3d714b952ffec5aad2639f8657ead035
-SHA1: 4a8ea8642d0e144826a5abf6f6145d583d510e1c
-SHA256: 4307e6ed3d8f875cba1e86787f80b9cdfb49d14b765c70f638ea773c7279ee85
+Size: 263306
+MD5sum: 1b3c9a27654c31a90ca970b0603f54d0
+SHA1: 4944aaa55f9759209045512dfe79c04cf5dc107a
+SHA256: 879b4d2dda6e290f1a5372617ccfe410c3b49ba619d7ca0dcfd3b624562025a4
 Section: Widgets
 Description: Widget for XenHTML, based on XenJa3 by junesiphone
 Author: Jesperflodin1 <jesper@flodin.fi>
@@ -3978,10 +3978,10 @@ Architecture: iphoneos-arm
 Maintainer: Elias Limneos
 Installed-Size: 196
 Filename: ./debs/net.limneos.oslogios11_0.0.1-8_iphoneos-arm.deb
-Size: 17280
-MD5sum: b151c5656b0d1485dd810912dbc1dc49
-SHA1: 91fc15f5a3e7f2d38429b0a886b07711324344fe
-SHA256: 0f43c01c0421c800433170258f66a9ed268564aa3a9c26a23d31eb6fc5c49722
+Size: 16980
+MD5sum: 04436d0689ac54cc59028ce0922c4cb7
+SHA1: e240a0182ce044705181a5358ddd5525853ac510
+SHA256: 1214e10ab0217ca3d2cbc98b110869e7181199178a65421dd5f2ba7c5c4922b2
 Section: System
 Description: os_log implementation for iOS (fixed for iOS 11)
 Tag: role::hacker

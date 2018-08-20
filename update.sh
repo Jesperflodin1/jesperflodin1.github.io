@@ -1,16 +1,16 @@
 #!/bin/bash
 
-
-#change cwd
-cd ~/Documents/GitHub/jesperflodin1.github.io/
-#clean up
-find . -name ‘*.DS_Store’ -type f -delete
-find ~/Documents/iOS-dev/ -name ‘*.DS_Store’ -type f -delete
-find ~/Documents/Projects/Tweaks/ -name ‘*.DS_Store’ -type f -delete
+#change cwd and clean up
+find ~/Documents/iOS-dev/packages/ -name ".DS_Store" -depth -exec rm {} \;
+find ~/Documents/Projects/ -name ".DS_Store" -depth -exec rm {} \;
+find ~/Documents/GitHub/jesperflodin1.github.io/ -name ".DS_Store" -depth -exec rm {} \;
 
 #uncomment these 2 lines if you don't want a downgrade option in Cydia 
 #find ./debs -type f -name '*.deb' -delete
 #rm -r Packages.bz2
+
+#change cwd
+cd ~/Documents/GitHub/jesperflodin1.github.io/
 
 #debs
 #format example
