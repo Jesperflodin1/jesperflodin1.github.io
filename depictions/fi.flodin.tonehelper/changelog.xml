@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.2.9</version>
+        <change>Fixed respring button</change>
+    </changes>
+    <changes>
         <version>0.2.8</version>
         <change>Minor code cleanup</change>
         <change>Removed debug output</change>

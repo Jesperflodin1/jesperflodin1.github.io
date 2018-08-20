@@ -1,7 +1,7 @@
 <package>
 	<id>fi.flodin.tonehelper</id>
 	<name>ToneHelper</name>
-	<version>0.2.8</version>
+	<version>0.2.9</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -44,6 +44,7 @@
 		<change>Bugfixes</change>
         <change>Minor code cleanup</change>
         <change>Removed debug output</change>
+        <change>Fixed respring button</change>
 	</changelog>
 	<links>
 		<link>
