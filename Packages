@@ -111,9 +111,9 @@ Maintainer: Jesperflodin1 <jesper@flodin.fi>
 Depends: mobilesubstrate, com.junesiphone.xeninfo, com.matchstic.xenhtml
 Filename: ./debs/fi.flodin.jf.sb.1_0.0.8_iphoneos-arm.deb
 Size: 263958
-MD5sum: 316511cca61ad76307fd4d6cc919f1c9
-SHA1: 7f2a51e4ecb4d69e1c53f5aa37dc44af77ba9663
-SHA256: 77962388e525bd6d62ac0b589e329913067b343888946455f169cb6bb4d5afb8
+MD5sum: 6ae1c2dcec11d62e7c92e115bd45ad0c
+SHA1: eaf6147bb18a6ef75ab847eb518293db68377346
+SHA256: 07296c598d9af4376a6f4cf3f2e2f71297d185d853f6e075538b0743931a34b5
 Section: Widgets
 Description: Widget for XenHTML, based on XenJa3 by junesiphone
 Author: Jesperflodin1 <jesper@flodin.fi>
