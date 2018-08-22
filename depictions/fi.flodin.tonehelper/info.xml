@@ -1,7 +1,7 @@
 <package>
 	<id>fi.flodin.tonehelper</id>
 	<name>ToneHelper</name>
-	<version>0.2.10</version>
+	<version>0.3.0-4+debug</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -39,8 +39,8 @@
         </screenshot>
 	</screenshots>
 	<changelog>
-		<change>Import fails if ringtone directory does not exist. Creates the folder now.</change>
-        <change>Fixed a bug where it required a restart of Preferences to run import again.</change>
+        <change>Fixed an error with permissions on tweak data files which caused multiple imports, no imports and other weird bugs</change>
+        <change>Added a lot more logging and logging to file (warning: only use for short periods if you have a problem, the file can get big)</change>
 	</changelog>
 	<links>
 		<link>
