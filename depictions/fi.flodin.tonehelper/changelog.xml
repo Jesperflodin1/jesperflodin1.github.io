@@ -1,6 +1,6 @@
 <changelog>
     <changes>
-        <version>0.3.0</version>
+        <version>0.3.1</version>
         <change>Fixed an error with permissions on tweak data files which caused multiple imports, no imports and other weird bugs</change>
         <change>Added a lot more logging and logging to file (warning: only use for short periods if you have a problem, the file can get big)</change>
     </changes>

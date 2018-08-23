@@ -111,9 +111,9 @@ Maintainer: Jesperflodin1 <jesper@flodin.fi>
 Depends: mobilesubstrate, com.junesiphone.xeninfo, com.matchstic.xenhtml
 Filename: ./debs/fi.flodin.jf.sb.1_0.0.8_iphoneos-arm.deb
 Size: 263220
-MD5sum: 746f613efdcc39f36c7815d6945c0d99
-SHA1: b39c20fe824b25990a7918c90359315211affa3a
-SHA256: 0b9c7ced6fefadf1e068318c1e50ef3bf1b69281757201455c2b01c72fe4c6c9
+MD5sum: 6ff57896b1dd92d77a0bc6739e91a3b7
+SHA1: ca29e95228606978ed8eae401177ca4be815a8d3
+SHA256: 037b5bf280a3611764e6a1210638b9be0c371fbce504287a2ede0c66b5511628
 Section: Widgets
 Description: Widget for XenHTML, based on XenJa3 by junesiphone
 Author: Jesperflodin1 <jesper@flodin.fi>
@@ -4346,6 +4346,40 @@ Author: Jesper Flodin <jesper@flodin.fi>
 Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
 Name: ToneHelper
 
+Package: fi.flodin.tonehelper
+Version: 0.3.0-5+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 772
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.0-5+debug_iphoneos-arm.deb
+Size: 153800
+MD5sum: b3c1edd0330d1c20a6db343e1d6c8b53
+SHA1: d12030b14faac356bc894700c1f4a17ee6ed4be5
+SHA256: 8cb6de1866b40d318ae4296bd4f7ee96d28d348545a166bf31e9ed3f1bd6b235
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.1
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 628
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.1_iphoneos-arm.deb
+Size: 135954
+MD5sum: ca5cbb43b0fdc1a95b0cd65de2a863e8
+SHA1: f032ae13c37ae873623ab12ea579bf950434e25d
+SHA256: cab7126a678023fb354db57eb7ed959448df80eb1bdb047bde7cba33bbf37586
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
 Package: net.limneos.oslogios11
 Version: 0.0.1-8
 Architecture: iphoneos-arm
@@ -4353,9 +4387,9 @@ Maintainer: Elias Limneos
 Installed-Size: 196
 Filename: ./debs/net.limneos.oslogios11_0.0.1-8_iphoneos-arm.deb
 Size: 16972
-MD5sum: d19e09dd4410afe4cebbd7fa59e83128
-SHA1: c081be962dad5ac381c2c961a43f4f015551f226
-SHA256: 9913fcca97a1b516edc75622c0487d9d1c41668eccc48338f262b7c7509e31f6
+MD5sum: 979ebae03097763b3da6593cb04881c9
+SHA1: d706813f15e8a08871592f9d68e1db0ced468fab
+SHA256: 82032fa73048adfe250ba73010c626217f8a681c83dcc030b27cc7d58b253809
 Section: System
 Description: os_log implementation for iOS (fixed for iOS 11)
 Tag: role::hacker
