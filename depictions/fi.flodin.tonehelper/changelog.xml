@@ -1,6 +1,6 @@
 <changelog>
     <changes>
-        <version>0.3.7.99</version>
+        <version>0.3.8</version>
         <change>Added code for IOS 10 (IOS 10 support is BETA)</change>
         <change>Fixed ringtones not playing for calls</change>
     </changes>
