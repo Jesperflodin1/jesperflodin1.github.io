@@ -111,9 +111,9 @@ Maintainer: Jesperflodin1 <jesper@flodin.fi>
 Depends: mobilesubstrate, com.junesiphone.xeninfo, com.matchstic.xenhtml
 Filename: ./debs/fi.flodin.jf.sb.1_0.0.8_iphoneos-arm.deb
 Size: 263220
-MD5sum: 727dff47a69ea82d0a69597cdf38e6dd
-SHA1: 472f9098cb6bf663c97d4dcc12d9444d50cb7ef7
-SHA256: 015515c3672bebda801affddd822d4bd35de5ba83372042e228c9692722d4685
+MD5sum: 0214c22152ac5149190b94afc4138fe7
+SHA1: a0ccf9a0def1ea449ffb866edc0eee37d315dad3
+SHA256: 6e3184079742aa980e9964771dcbf5d4e517b75f282cfd5ca6c78704ea67c3c1
 Section: Widgets
 Description: Widget for XenHTML, based on XenJa3 by junesiphone
 Author: Jesperflodin1 <jesper@flodin.fi>
@@ -4625,10 +4625,10 @@ Maintainer: Jesper Flodin <jesper@flodin.fi>
 Installed-Size: 888
 Depends: mobilesubstrate, ws.hbang.common (>= 1.12), jp.ashikase.techsupport
 Filename: ./debs/fi.flodin.tonehelper_0.3.4_iphoneos-arm.deb
-Size: 181366
-MD5sum: dfba5366b5be575657da8368b172a483
-SHA1: 433ed80c806599fb21f2b8994a15619f59154e86
-SHA256: f567fa0eaaa76cb4722bd6aea1dcc49705cae1e77293f95ea8b5d7f4752472b8
+Size: 181202
+MD5sum: a573803aa79fde9518ab6200f69ba607
+SHA1: ff9bbdc258bae16324b1d52e7127516f879ea8ac
+SHA256: 2299c4e23035ae2b8316003236d5de2e6d3be3ae1e030059c82733989a9f3d66
 Section: Tweaks
 Description: Automatically adds ringtones from Audiko to device
 Author: Jesper Flodin <jesper@flodin.fi>
@@ -4642,9 +4642,9 @@ Maintainer: Elias Limneos
 Installed-Size: 196
 Filename: ./debs/net.limneos.oslogios11_0.0.1-8_iphoneos-arm.deb
 Size: 16972
-MD5sum: cc34d6a80e8adeb2d92bc067a484dfb7
-SHA1: ac750b1dbb7125895febb8338dd1d4ea09a9a5b7
-SHA256: 8026a218d8a08652c90e2c83c79b121fbe0ccdbaa780e3bb86855c98a05f5241
+MD5sum: d4fb9d45ce4d77dc874462a2404d20c4
+SHA1: 3ee11838343f6d198ad450752f31dba21cbcac79
+SHA256: ed0de632b3ac60e4f6eb7648c12cbddb1bca8347e57a6f957796e0b9753e9ea3
 Section: System
 Description: os_log implementation for iOS (fixed for iOS 11)
 Tag: role::hacker
