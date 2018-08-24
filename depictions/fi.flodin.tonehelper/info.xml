@@ -1,7 +1,7 @@
 <package>
 	<id>fi.flodin.tonehelper</id>
 	<name>ToneHelper</name>
-	<version>0.3.0.9</version>
+	<version>0.3.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -13,7 +13,7 @@
         <package>Cephei</package>
 	</dependencies>
 	<descriptionlist>
-        <description>Automatically imports ringtones from popular ringtone apps like Audiko and Zedge Ringtones. NOTE: Version 0.3.0.9 = 0.3.1</description>
+        <description>Automatically imports ringtones from popular ringtone apps like Audiko and Zedge Ringtones. NOTE: Version 0.3.4 = 0.3.5(from bigboss)</description>
 		<description><![CDATA[
 		Supports both runtime injection of ringtones (which does not modify any .plist file in the system) <br>
         and writing of metadata to Ringtones.plist in /var/mobile/Media/Itunes_Control/Itunes. <br>
@@ -39,9 +39,11 @@
         </screenshot>
 	</screenshots>
 	<changelog>
-        <change>Fixed an error with permissions on tweak data files which caused multiple imports, no imports and other weird bugs</change>
-        <change>Added a lot more logging and logging to file (warning: only use for short periods if you have a problem, the file can get big)</change>
-        <change>Added code that runs on first run and removes all duplicated ringtones and makes sure needed files and folders exist.</change>
+        <change>Removed HUD</change>
+        <change>Added a lot more error handling</change>
+        <change>Added remote logging opt-in</change>
+        <change>Improved stability and reliability of ringtone importing</change>
+        <change>Imports are now running in a background thread to improve UI responsiveness</change>
 	</changelog>
 	<links>
 		<link>

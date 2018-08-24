@@ -111,9 +111,9 @@ Maintainer: Jesperflodin1 <jesper@flodin.fi>
 Depends: mobilesubstrate, com.junesiphone.xeninfo, com.matchstic.xenhtml
 Filename: ./debs/fi.flodin.jf.sb.1_0.0.8_iphoneos-arm.deb
 Size: 263220
-MD5sum: 43ee52c851586e88ac83158d2b70ce89
-SHA1: 5d2f852b1710d5da6544535679da2bba26c7501f
-SHA256: 479c35de2bf42c884bf0b3817a07e4829963ad3cf32f65a801d4462e251c0fbc
+MD5sum: 727dff47a69ea82d0a69597cdf38e6dd
+SHA1: 472f9098cb6bf663c97d4dcc12d9444d50cb7ef7
+SHA256: 015515c3672bebda801affddd822d4bd35de5ba83372042e228c9692722d4685
 Section: Widgets
 Description: Widget for XenHTML, based on XenJa3 by junesiphone
 Author: Jesperflodin1 <jesper@flodin.fi>
@@ -4380,6 +4380,261 @@ Author: Jesper Flodin <jesper@flodin.fi>
 Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
 Name: ToneHelper
 
+Package: fi.flodin.tonehelper
+Version: 0.3.1
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 628
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.1_iphoneos-arm.deb
+Size: 135954
+MD5sum: ca5cbb43b0fdc1a95b0cd65de2a863e8
+SHA1: f032ae13c37ae873623ab12ea579bf950434e25d
+SHA256: cab7126a678023fb354db57eb7ed959448df80eb1bdb047bde7cba33bbf37586
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 1076
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.2-1+debug_iphoneos-arm.deb
+Size: 208684
+MD5sum: 84e13ff75ff81e94a087567301aff983
+SHA1: 53f7e072fcb935b4e81204a3796f7cebf1734611
+SHA256: d1de4f6b6de3d75f1612be5262e0865dae4d9e01851733c893b368b91dd6bd60
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.2-10+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 1076
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.2-10+debug_iphoneos-arm.deb
+Size: 209040
+MD5sum: 5ac5fb74a9a9d8631742dfa28a5fee32
+SHA1: a90cd51fef4540a1926d7e56309289b1f393ae1c
+SHA256: ef749b3860c61354c7aa29ea85b67b3acd5315efa184ac620b2ff1e88f529c23
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.2-11+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 1076
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.2-11+debug_iphoneos-arm.deb
+Size: 207290
+MD5sum: 4c91342ff214b04af1ae37ef63e95ad5
+SHA1: 4a2d3a4f2de43b8e21f04535a496d1d72d0825ef
+SHA256: a6937f9b6257a3a3e5a232453c4546a93f1b657fb7842d8e20f3af151eee830f
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.2-12+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 1076
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.2-12+debug_iphoneos-arm.deb
+Size: 208864
+MD5sum: 1c7360839f61fd36944a3d7fe5119d97
+SHA1: d0245f9446ec79b1656d0355545ffa87ca1566b0
+SHA256: df258130ef2e575f4613583c453f97e7dc101acf5a582fe241cbb848c7b0e902
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.2-2+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 1076
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.2-2+debug_iphoneos-arm.deb
+Size: 208624
+MD5sum: dc02bca094ca9b6f04822e8709593166
+SHA1: ba0c617e38bdace313642b7b5c3da1c49182c56f
+SHA256: d15afa26466b921dd46c3b241e73b44446e91a820f8e274cef4d896f093d8084
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.2-3+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 1076
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.2-3+debug_iphoneos-arm.deb
+Size: 208838
+MD5sum: f2ee8532a75b3d843dbbc9362b1781d3
+SHA1: cc9a1c415ad43657fd9e737dbeff001b1d438d6b
+SHA256: f94ec6b7244fdb3160c772c87df9dc0fc5527fb1d67392d9005314054929ee50
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.2-4+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 1076
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.2-4+debug_iphoneos-arm.deb
+Size: 208970
+MD5sum: 423d58cdb39a26c8e2ec73a11d023f65
+SHA1: 2d30d562fcefc0b1542b4653939874569ae00ffb
+SHA256: 70a5367ace105cac6eb2b8c9114819ab9e9b0f0cb0f502a156d8497bdc4346f6
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.2-5+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 1076
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.2-5+debug_iphoneos-arm.deb
+Size: 209626
+MD5sum: bbb37537272c531b7f1ced99fd78a951
+SHA1: df97ea525fd829f307f05240aa076df7e2b3ce2a
+SHA256: 35fab2c95ea079e25c1c0c08445e528a92f38e9e48a6bdf1244e514fa40af2bf
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.2-6+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 1076
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.2-6+debug_iphoneos-arm.deb
+Size: 209198
+MD5sum: d817dc94b5f913fa349b8cb85ebab710
+SHA1: 5efe6b529fa6bd22d2dcb068675a9179046a3149
+SHA256: 925bdbd7839bc5ff5c5b1fe69cb747e0657ae6a215319a53e6f505400954ed10
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.2-7+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 1076
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.2-7+debug_iphoneos-arm.deb
+Size: 209510
+MD5sum: c2cc7b8c40aba9307f56a6f6c6ae556f
+SHA1: 86b8dad377ebfefc7a46e90068393bb1b8e74d7f
+SHA256: dedee5ba870bb3ecc3625dbc6cb2296eeaa4b4cbe9c8c21987e5adb60b672487
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.2-8+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 1076
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.2-8+debug_iphoneos-arm.deb
+Size: 209252
+MD5sum: 677b108f6e2dc60d3b63db20f8176716
+SHA1: 583443e7cbd2963b7afef0e2a4ad46b6319a3de0
+SHA256: 2244c169c35f9bf91cc374e9c4d289c615b144013dd72afeadb7b88b6d21570e
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.2-9+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 1076
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/fi.flodin.tonehelper_0.3.2-9+debug_iphoneos-arm.deb
+Size: 209254
+MD5sum: d8685b00682d58c9892ee851aafb36b5
+SHA1: 7fc5ce227e3b4d624639470977acf73c5a0dc200
+SHA256: 8bfe8264b52d78d64f6505e8104ac3e923b29c2862832bbf9c67d821a517a951
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 956
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12), jp.ashikase.techsupport
+Filename: ./debs/fi.flodin.tonehelper_0.3.3-1+debug_iphoneos-arm.deb
+Size: 185468
+MD5sum: 0eef08a2dc84556b6ed4c73aa68501fc
+SHA1: 7fff4dc6239ffe26dde9334d3a7bf3fe90b24342
+SHA256: 993aaa58af28aed94fcb961852c9e65a82bbc2adb95e4f8c3a06ea89d6bb9344
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.4
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 888
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12), jp.ashikase.techsupport
+Filename: ./debs/fi.flodin.tonehelper_0.3.4_iphoneos-arm.deb
+Size: 181366
+MD5sum: dfba5366b5be575657da8368b172a483
+SHA1: 433ed80c806599fb21f2b8994a15619f59154e86
+SHA256: f567fa0eaaa76cb4722bd6aea1dcc49705cae1e77293f95ea8b5d7f4752472b8
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
 Package: net.limneos.oslogios11
 Version: 0.0.1-8
 Architecture: iphoneos-arm
@@ -4387,9 +4642,9 @@ Maintainer: Elias Limneos
 Installed-Size: 196
 Filename: ./debs/net.limneos.oslogios11_0.0.1-8_iphoneos-arm.deb
 Size: 16972
-MD5sum: 03e109bb109e5845c658f26c5d1fe089
-SHA1: 759bcecb2835e7d4674ac57ca28b1686c876a83b
-SHA256: adb7c84959c5541bb53642b4aa50d407260be55a2f890970ecd6b287e5f78780
+MD5sum: cc34d6a80e8adeb2d92bc067a484dfb7
+SHA1: ac750b1dbb7125895febb8338dd1d4ea09a9a5b7
+SHA256: 8026a218d8a08652c90e2c83c79b121fbe0ccdbaa780e3bb86855c98a05f5241
 Section: System
 Description: os_log implementation for iOS (fixed for iOS 11)
 Tag: role::hacker
