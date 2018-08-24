@@ -111,9 +111,9 @@ Maintainer: Jesperflodin1 <jesper@flodin.fi>
 Depends: mobilesubstrate, com.junesiphone.xeninfo, com.matchstic.xenhtml
 Filename: ./debs/fi.flodin.jf.sb.1_0.0.8_iphoneos-arm.deb
 Size: 263220
-MD5sum: fdbf20679f4e6904a6a8a64228f2d397
-SHA1: 69f6bacb95ce91367642b230330cbfeaa3226abb
-SHA256: dc09480073017ef7c34f1ce3aee9b623f056ccd09696cfa620876ef0b5a5e7c2
+MD5sum: dabf32e9e8e6d33da5fd2afc3fcfec51
+SHA1: d4fc2f95cb3f6b8247de1b9f970e8f0e6a16bf3d
+SHA256: e3bb760c8b09c0eaf16b8b7a0a80be967716e7a68b419305b7bb056e61cada8f
 Section: Widgets
 Description: Widget for XenHTML, based on XenJa3 by junesiphone
 Author: Jesperflodin1 <jesper@flodin.fi>
@@ -4863,10 +4863,27 @@ Maintainer: Jesper Flodin <jesper@flodin.fi>
 Installed-Size: 888
 Depends: mobilesubstrate, ws.hbang.common (>= 1.12), jp.ashikase.techsupport
 Filename: ./debs/fi.flodin.tonehelper_0.3.7.99_iphoneos-arm.deb
-Size: 183618
-MD5sum: e5f4f606bceecfc4373d42478c972c12
-SHA1: a662899edd5270e5cdab2de5f3420c304683adeb
-SHA256: b8d597019bdfea408c3f8fb84c5a99e87d823ff15403e110bfb1b755174bc317
+Size: 183672
+MD5sum: 50f372f8a47d992485345f5536c9f5cb
+SHA1: d8ccc53b9c2419f583a51b5c9b1f30f3d88a58f6
+SHA256: 01259122e5d1bee4d9cdf9ba9ea3fd7e8ff80853e44812ac9661320545be47c3
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
+Package: fi.flodin.tonehelper
+Version: 0.3.8
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 888
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12), jp.ashikase.techsupport
+Filename: ./debs/fi.flodin.tonehelper_0.3.8_iphoneos-arm.deb
+Size: 183524
+MD5sum: 1f9ed80bb6126563f614d2dd46b16bbe
+SHA1: cd6069553f43e50ff1054aa4576eb22f21a3999a
+SHA256: 8dab6d54fc64c3e211f92e88f727b390557c6e3eee4e4dd021b4cafa668fe86a
 Section: Tweaks
 Description: Automatically adds ringtones from Audiko to device
 Author: Jesper Flodin <jesper@flodin.fi>
@@ -4880,9 +4897,9 @@ Maintainer: Elias Limneos
 Installed-Size: 196
 Filename: ./debs/net.limneos.oslogios11_0.0.1-8_iphoneos-arm.deb
 Size: 16972
-MD5sum: 84e81fc234df51087d53ad281f15f188
-SHA1: f0b0bb6558b43b0582fbcba5d84013d453726cc0
-SHA256: e8dbff6d74154a944e8708e99a5a1e1c3eef42cdb43f23447aef8250f8fb6f61
+MD5sum: e7a2f404191de15f358123c2a6f1f089
+SHA1: de25d357ce417540af76d25431220370476765c3
+SHA256: 18b4cbc9febf87456bd4784129c7f683d16dba637a44a62dca372f9fa8dac020
 Section: System
 Description: os_log implementation for iOS (fixed for iOS 11)
 Tag: role::hacker
