@@ -1,7 +1,7 @@
 <package>
 	<id>fi.flodin.tonehelper</id>
 	<name>ToneHelper</name>
-	<version>0.3.6</version>
+	<version>0.3.7.99</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -39,6 +39,8 @@
         </screenshot>
 	</screenshots>
 	<changelog>
+        <change>Added code for IOS 10 (IOS 10 support is BETA)</change>
+        <change>Fixed ringtones not playing for calls</change>
         <change>Removed HUD</change>
         <change>Added a lot more error handling</change>
         <change>Added remote logging opt-in</change>
