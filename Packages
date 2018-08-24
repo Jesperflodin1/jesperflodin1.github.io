@@ -111,9 +111,9 @@ Maintainer: Jesperflodin1 <jesper@flodin.fi>
 Depends: mobilesubstrate, com.junesiphone.xeninfo, com.matchstic.xenhtml
 Filename: ./debs/fi.flodin.jf.sb.1_0.0.8_iphoneos-arm.deb
 Size: 263220
-MD5sum: dabf32e9e8e6d33da5fd2afc3fcfec51
-SHA1: d4fc2f95cb3f6b8247de1b9f970e8f0e6a16bf3d
-SHA256: e3bb760c8b09c0eaf16b8b7a0a80be967716e7a68b419305b7bb056e61cada8f
+MD5sum: 6c12697adf7202ec488645a888f40269
+SHA1: d83caaf924c6479e5ea833079de58e599146e7a5
+SHA256: 96280f47812a8dfbc86890f1f6921d73185d0be2d3163946ae1cc9338c985cbb
 Section: Widgets
 Description: Widget for XenHTML, based on XenJa3 by junesiphone
 Author: Jesperflodin1 <jesper@flodin.fi>
@@ -4890,6 +4890,23 @@ Author: Jesper Flodin <jesper@flodin.fi>
 Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
 Name: ToneHelper
 
+Package: fi.flodin.tonehelper
+Version: 0.3.8.1
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 888
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12), jp.ashikase.techsupport
+Filename: ./debs/fi.flodin.tonehelper_0.3.8.1_iphoneos-arm.deb
+Size: 183954
+MD5sum: af85ea07bcfeb094081ab926db8fa3cd
+SHA1: 8b929d858f93f53e3b8d9be830c8888aa9630dd3
+SHA256: 6c7dd29834fb42bbf8cf23d47f9c9750826960190c0212db1eb85f29f8ad2bb7
+Section: Tweaks
+Description: Automatically adds ringtones from Audiko to device
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonehelper
+Name: ToneHelper
+
 Package: net.limneos.oslogios11
 Version: 0.0.1-8
 Architecture: iphoneos-arm
@@ -4897,9 +4914,9 @@ Maintainer: Elias Limneos
 Installed-Size: 196
 Filename: ./debs/net.limneos.oslogios11_0.0.1-8_iphoneos-arm.deb
 Size: 16972
-MD5sum: e7a2f404191de15f358123c2a6f1f089
-SHA1: de25d357ce417540af76d25431220370476765c3
-SHA256: 18b4cbc9febf87456bd4784129c7f683d16dba637a44a62dca372f9fa8dac020
+MD5sum: 45e5a5e5129ef8ac8d43aa247a5d9240
+SHA1: 9801774c512d648e0675f92f8557c372f70c3cd5
+SHA256: 1da193640ea37a91e6af0d3dc07c336364b281b9a8bd34a55879ee86b165b4a9
 Section: System
 Description: os_log implementation for iOS (fixed for iOS 11)
 Tag: role::hacker

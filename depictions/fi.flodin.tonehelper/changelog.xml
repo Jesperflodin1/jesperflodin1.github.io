@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.3.8.1</version>
+        <change>Recreates tweak data folder if missing</change>
+    </changes>
+    <changes>
         <version>0.3.8</version>
         <change>Added code for IOS 10 (IOS 10 support is BETA)</change>
         <change>Fixed ringtones not playing for calls</change>
