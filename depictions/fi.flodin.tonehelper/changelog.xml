@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.3.6</version>
+        <change>Fixed import not running on first start of Preferences</change>
+    </changes>
+    <changes>
         <version>0.3.4</version>
         <change>Removed HUD</change>
         <change>Added a lot more error handling</change>
