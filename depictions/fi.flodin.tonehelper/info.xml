@@ -13,7 +13,7 @@
         <package>Cephei</package>
 	</dependencies>
 	<descriptionlist>
-        <description>Automatically imports ringtones from popular ringtone apps like Audiko and Zedge Ringtones. NOTE: Version 0.3.6 = 0.3.7(from bigboss)</description>
+        <description>Automatically imports ringtones from popular ringtone apps like Audiko and Zedge Ringtones. NOTE: Please dont install this, wait for version 0.4 which brings a lot of improvements and bugfixes. This version might cause respringloops (start cydia and uninstall to fix if you get it) and is in early beta. Next version should be ready soon.</description>
 		<description><![CDATA[
 		Supports both runtime injection of ringtones (which does not modify any .plist file in the system) <br>
         and writing of metadata to Ringtones.plist in /var/mobile/Media/Itunes_Control/Itunes. <br>
