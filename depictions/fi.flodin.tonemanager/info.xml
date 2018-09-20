@@ -25,6 +25,7 @@
         <description>
             Dont try to import ringtones longer than 30 seconds. App will give you a warning, but will allow you to install it if you really want to...
         </description>
+        <description>This is a beta version which includes remote logging turned on by default. It can be disabled in the settings in the app.</description>
         <description><![CDATA[
             Features:
              - Installs ringtones from Audiko/Zedge
