@@ -1,0 +1,63 @@
+<package>
+	<id>fi.flodin.tonemanager</id>
+	<name>ToneManager</name>
+	<version>0.5.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+            <otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Applist</package>
+        <package>libswift4</package>
+	</dependencies>
+	<descriptionlist>
+        <description>Install ringtones from Audiko, Zedge without iTunes! Can also install ringtones downloaded with Safari or other apps.</description>
+		<description><![CDATA[
+            To install ringtones from Audiko/Zedge:
+            Download/mark as favorite ringtone in Audiko/Zedge.
+            Open ToneManager. If "Auto install" is enabled in preferences the ringtone will install automatically.
+            If the ringtone name is red it is not installed. Install by tapping "..." on the ringtone you want to install and choose install.
+            To install all ringtones in ToneManager press "Install all"
+		]]>
+		</description>
+        <description>
+            Dont try to import ringtones longer than 30 seconds. App will give you a warning, but will allow you to install it if you really want to...
+        </description>
+        <description><![CDATA[
+            Features:
+             - Installs ringtones from Audiko/Zedge
+             - Scans any app you want for ringtones (as long as they are in the application Document directory)
+             - Includes a simple file picker to import ringtone from custom folder
+             - Associates with various sound files so you can import to ToneManager from the "Open in" menu from ANY app that allows you to open the share dialog
+             - Converts non-m4r files to m4r (TODO)
+             - Preview ringtones by tapping the ringtone row and press the play button
+        ]]>
+        </description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>ToneHelper preferences pane</description>
+			<image>IMG1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>ToneHelper preferences pane showing imported ringtones. Swipe left to delete.</description>
+			<image>IMG2.jpg</image>
+		</screenshot>
+        <screenshot>
+            <description>Ringtone picker view in Preferences with HUD overlay from Tonehelper.</description>
+            <image>IMG3.png</image>
+        </screenshot>
+	</screenshots>
+	<changelog>
+        <change>First public beta</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
