@@ -52,7 +52,9 @@
         </screenshot>
     </screenshots>
     <changelog>
-        <change>First public beta</change>
+        <change>Fixed bug where app would not load anything</change>
+        <change>Implemented applist for adding extra apps to scan</change>
+        <change>Added "Delete all" functionality in advanced settings</change>
     </changelog>
     <links>
         <link>
