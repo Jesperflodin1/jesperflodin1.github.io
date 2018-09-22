@@ -1,5 +1,11 @@
 <changelog>
     <changes>
+        <version>0.6.0</version>
+        <change>Fixed bug where app would not load anything</change>
+        <change>Implemented applist for adding extra apps to scan</change>
+        <change>Added "Delete all" functionality in advanced settings</change>
+    </changes>
+    <changes>
         <version>0.5.1</version>
         <change>First public beta</change>
     </changes>
