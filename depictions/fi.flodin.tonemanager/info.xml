@@ -1,7 +1,7 @@
 <package>
     <id>fi.flodin.tonemanager</id>
     <name>ToneManager</name>
-    <version>0.6.0-186</version>
+    <version>0.6.0-217</version>
     <compatibility>
         <firmware>
             <miniOS>9.0</miniOS>
@@ -39,22 +39,15 @@
     </descriptionlist>
     <screenshots>
         <screenshot>
-            <description>ToneHelper preferences pane</description>
+            <description>ToneManager main view</description>
             <image>IMG1.png</image>
-        </screenshot>
-        <screenshot>
-            <description>ToneHelper preferences pane showing imported ringtones. Swipe left to delete.</description>
-            <image>IMG2.jpg</image>
-        </screenshot>
-        <screenshot>
-            <description>Ringtone picker view in Preferences with HUD overlay from Tonehelper.</description>
-            <image>IMG3.png</image>
         </screenshot>
     </screenshots>
     <changelog>
         <change>Fixed bug where app would not load anything</change>
         <change>Implemented applist for adding extra apps to scan</change>
         <change>Added "Delete all" functionality in advanced settings</change>
+        <change>Added code to handle "open in" calls from other apps</change>
     </changelog>
     <links>
         <link>
