@@ -8506,6 +8506,38 @@ Author: Jesper Flodin <jesper@flodin.fi>
 Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonemanager
 Name: ToneManager
 
+Package: fi.flodin.tonemanager
+Version: 0.6.0-221
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Depends: applist, com.modmyi.libswift4 (>= 4.1.2-3), com.rpetrich.rocketbootstrap (>= 1.0.3)
+Filename: ./debs/fi.flodin.tonemanager_0.6.0-221_iphoneos-arm.deb
+Size: 616
+MD5sum: 45e075213d8a61e9d70202be616673ea
+SHA1: a4b4846c50a205371ea48f0a6395debed64420c4
+SHA256: f5cb8b5f861d3a21e8f606e64b12d7b445e4c33087fab3b942d2c7ccbd2770b2
+Section: Utilities
+Description: Install ringtones from Audiko, Zedge and more!
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonemanager
+Name: ToneManager
+
+Package: fi.flodin.tonemanager
+Version: 0.6.0-222
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Depends: applist, com.modmyi.libswift4 (>= 4.1.2-3), com.rpetrich.rocketbootstrap (>= 1.0.3)
+Filename: ./debs/fi.flodin.tonemanager_0.6.0-222_iphoneos-arm.deb
+Size: 2193082
+MD5sum: d29af478adbae7f8ecd5348d4695ec8f
+SHA1: 7033401586ae2e56bb7fcd28edf036818fbf199c
+SHA256: c55e46bd93618f23c4e04655a8b92854167595822293ec212618268fac8624a0
+Section: Utilities
+Description: Install ringtones from Audiko, Zedge and more!
+Author: Jesper Flodin <jesper@flodin.fi>
+Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonemanager
+Name: ToneManager
+
 Package: net.limneos.oslogios11
 Version: 0.0.1-8
 Architecture: iphoneos-arm
