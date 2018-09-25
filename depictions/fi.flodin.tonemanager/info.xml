@@ -1,7 +1,7 @@
 <package>
     <id>fi.flodin.tonemanager</id>
     <name>ToneManager</name>
-    <version>0.6.1-244</version>
+    <version>0.6.1-245</version>
     <compatibility>
         <firmware>
             <miniOS>9.0</miniOS>
@@ -44,6 +44,7 @@
     <changelog>
         <change>Added automatic file conversion to m4r</change>
         <change>Ringtones longer than 30 seconds will now be shortened to the first 30 seconds of the sound file</change>
+        <change>Added send email button in settings that includes current settings, imported ringtones and important device info</change>
     </changelog>
     <links>
         <link>

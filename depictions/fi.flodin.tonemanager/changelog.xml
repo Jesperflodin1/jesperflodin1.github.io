@@ -3,6 +3,7 @@
         <version>0.6.1</version>
         <change>Added automatic file conversion to m4r</change>
         <change>Ringtones longer than 30 seconds will now be shortened to the first 30 seconds of the sound file</change>
+        <change>Added send email button in settings that includes current settings, imported ringtones and important device info</change>
     </changes>
     <changes>
         <version>0.6.0</version>
