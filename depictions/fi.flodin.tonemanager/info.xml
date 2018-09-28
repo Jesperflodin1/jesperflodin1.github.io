@@ -28,7 +28,7 @@
             - Installs ringtones from Audiko/Zedge<br />
             - Scans any app you want for ringtones (as long as they are in the application Documents directory)<br />
             - Includes a simple file picker to import ringtone from custom folder<br />
-            - Associates with sound files so you can import to ToneManager from the "Open in" menu from almost any app that allows you to open the share dialog for a sound file.<br />
+            - Associates with sound files so you can import to ToneManager from the "Open with" menu from almost any app that allows you to open the share dialog for a sound file.<br />
             - Converts wav, aif, caf, mp3, mp4, snd, au, sd2, aiff, aifc, aac, m4a files to ringtones (m4r) <br />
             - Shortens ringtones longer than 30 seconds to only include the first 30 seconds <br />
             - Preview ringtones by tapping the ringtone row and press the play button<br />
