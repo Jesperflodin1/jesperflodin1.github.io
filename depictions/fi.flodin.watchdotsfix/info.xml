@@ -1,0 +1,27 @@
+<package>
+    <id>fi.flodin.watchdotsfix</id>
+    <name>WatchDotsFix</name>
+    <version>0.0.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>11.0</miniOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>
+        <package>mobilesubstrate</package>
+    </dependencies>
+    <descriptionlist>
+        <description>Makes Apple watch receive notifications while using Dots. May also work with other "always on display"-tweaks that does not support the watch.</description>
+    </descriptionlist>
+    <changelog>
+        <change>First release.</change>
+    </changelog>
+    <links>
+        <link>
+            <name>/r/jailbreak</name>
+            <url>https://www.reddit.com/r/jailbreak</url>
+            <iconclass>fa fa-reddit</iconclass>
+        </link>
+    </links>
+</package>
