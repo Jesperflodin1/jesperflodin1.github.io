@@ -9994,6 +9994,22 @@ Author: Jesper Flodin <jesper@flodin.fi>
 Depiction: https://jesperflodin1.github.io/depictions/?p=fi.flodin.tonemanager
 Name: ToneManager
 
+Package: fi.flodin.watchdotsfix
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/fi.flodin.watchdotsfix_0.0.1-1+debug_iphoneos-arm.deb
+Size: 2312
+MD5sum: 577f94f8c9ff4166507049afc91168d9
+SHA1: a92140f0e1d8758cab97c6b7b342e05d938d4c99
+SHA256: 9ab295f4217ee58448ff84743af982c4ad21a98457c796349d8f11c4a1dce401
+Section: Tweaks
+Description: Receive notifications on Apple Watch while using Dots
+Author: Jesper Flodin <jesper@flodin.fi>
+Name: WatchDotsFix
+
 Package: net.limneos.oslogios11
 Version: 0.0.1-8
 Architecture: iphoneos-arm
